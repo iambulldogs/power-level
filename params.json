@@ -1,0 +1,6 @@
+{
+  "name": "Power-level",
+  "tagline": "coding rainbow assignments",
+  "body": "\r\n<html>\r\n  <head>\r\n    <title>Sample \"Hello, World\" Application</title>\r\n  </head>\r\n  <body bgcolor=white>\r\n\r\n    <table border=\"0\" cellpadding=\"10\">\r\n      <tr>\r\n        <td>\r\n          <img src=\"images/springsource.png\">\r\n        </td>\r\n        <td>\r\n          <h1>Sample \"Hello, World\" Application</h1>\r\n        </td>\r\n      </tr>\r\n    </table>\r\n\r\n    <p>This is the home page for the HelloWorld Web application. </p>\r\n    <p>To prove that they work, you can execute either of the following links:\r\n    <ul>\r\n      <li>To a <a href=\"hello.jsp\">JSP page</a>.\r\n      <li>To a <a href=\"hello\">servlet</a>.\r\n    </ul>\r\n\r\n  </body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
